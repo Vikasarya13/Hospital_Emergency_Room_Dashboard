@@ -2,8 +2,6 @@
 
 An interactive Excel dashboard providing a detailed overview of Emergency Room operations—analyzing key hospital metrics such as patient volume, waiting time, gender & age demographics, satisfaction score, and department referrals.
 
-![Hospital Emergency Room Dashboard](https://github.com/Vikasarya13/Hospital_Emergency_Room_Dashboard/blob/main/Hospital%20Dashboard%20Final%20.jpg)
-
 ---
 
 ## 📌 Short Description
