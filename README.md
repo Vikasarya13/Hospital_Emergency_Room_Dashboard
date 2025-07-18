@@ -86,7 +86,7 @@ To provide a single, interactive Excel dashboard that supports decision-making b
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Dashboard Preview
 
 ![Hospital Emergency Room Dashboard](https://github.com/Vikasarya13/Hospital_Emergency_Room_Dashboard/blob/main/Hospital%20Dashboard%20Final%20.jpg)
 
